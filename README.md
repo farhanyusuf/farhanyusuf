@@ -17,7 +17,7 @@
 
 [twitter]: https://twitter.com/cribabiy
 [instagram]: https://www.instagram.com/hanfrhann
-[linkedin]: https://www.linkedin.com/in/farhan-yusuf-a-b63a241a2/
+[linkedin]: https://www.linkedin.com/in/farhan-yusuf-akbar/
 [github]: https://github.com/farhanyusuf
 
 <br />
