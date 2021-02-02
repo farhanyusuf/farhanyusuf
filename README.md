@@ -16,7 +16,7 @@
 [<img align="left" alt="farhanyusuf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/cribabiy
-[instagram]: https://www.instagram.com/hanfrhann
+[instagram]: https://www.instagram.com/hanysuf_
 [linkedin]: https://www.linkedin.com/in/farhan-yusuf-akbar/
 [github]: https://github.com/farhanyusuf
 
